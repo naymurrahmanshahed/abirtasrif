@@ -1,20 +1,9 @@
-<table border='0'>
- <tr>
-  <td rowspan="4"> <img src="https://i.ibb.co/qrT17PD/79617b27-4d24-4f1a-a847-135c91db8457.jpg" width="260" alt="abirtasrif"/> </td>
-  <td> 👋 Hi, I’m @abirtasrif</td>
- </tr>
- <tr>
-  <td> 👀 I’m interested in computer, web development, graphics design and programming.</td>
- </tr>
- <tr>
-  <td> 💞️ I love to design and create dynamic and interactive website with simple, flat and mouth watering graphical elements.</td>
- </tr>
- <tr>
-  <td> 🌹 Have a nice day !</td>
- </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3000&pause=1000&color=730095&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Abir+Tasrif;Web+Designer+%26+Developer)](https://git.io/typing-svg)
 
-<!---
-abirtasrif/abirtasrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👀 I’m interested in computer, web development, graphics design and programming.
+
+💞️ I love to design and create dynamic and interactive website with simple, flat and mouth watering graphical elements.
+
+🌹 Have a nice day !
+
+![](https://komarev.com/ghpvc/?username=abirtasrif&color=blueviolet&style=for-the-badge)
