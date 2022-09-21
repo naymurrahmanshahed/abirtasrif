@@ -14,8 +14,9 @@
 
 
 
-<a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/skype.svg" alt="send-me-skype-message" style="vertical-align:top margin:3px 4px">
+<a href="https://join.skype.com/invite/W9xkWEd76yeb">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/skype.svg" alt="send-me-skype-message" style="vertical-align:top margin:3px 4px"></a>
+    <a href="mailto:abirtasrif@gmail.com?subject=From%20abir's%20github%20profile">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="email-me" style="vertical-align:top margin:3px 4px">
   </a>  
 
