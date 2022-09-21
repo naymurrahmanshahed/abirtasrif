@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3000&pause=1000&color=730095&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Abir+Tasrif;Web+Designer+%26+Developer)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirtasrif)](https://github.com/abirtasrif)  
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abirtasrif&show_icons=true&theme=radical)](https://github.com/abirtasrif)
 
